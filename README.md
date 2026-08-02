@@ -57,3 +57,21 @@ Atualmente estou ampliando minha atuação para Desenvolvimento de Sistemas Emba
 - Robótica na prática
 
 ---
+
+# 📚 Atualmente estudando
+
+- Java (Programação Orientada a Objetos)
+- Programação de microcontroladores
+- Estruturas de Dados
+- C
+- C++
+
+---
+
+# 🌱 Em constante evolução
+
+Acredito que **Desenvolvimento de Sistemas Embarcados** e **Desenvolvimento de Software** caminham e se constroem juntos.
+
+Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e criar soluções que proporcionem uma excelente experiência ao usuário e a empresas, unindo desenvolvimento, conhecimento e prática, para uma melhor qualidade.
+
+---
