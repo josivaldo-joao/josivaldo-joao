@@ -1,5 +1,5 @@
 # 💻 Olá, sou o Josivaldo!
-Sou estudante do curso Ciência da Computação e atuo como integrante no grupo de robótica do IEEE RAS UFAL, sou responsável na liderança de equipe nos campeonatos de robótica, na modalidade de robô sumô.
+Sou estudante do curso Ciência da Computação e atuo como integrante de robótica do IEEE RAS UFAL, sou responsável na liderança de equipe, nos campeonatos de robótica, na modalidade de robô sumô.
 
 Atualmente estou ampliando minha atuação para Desenvolvimento de Sistemas Embarcados e Desenvolvimento de software, desenvolvendo aplicações em microcontroladores e softwares, aplicando boas práticas de desenvolvimento, usabilidade e qualidade de software.
 
